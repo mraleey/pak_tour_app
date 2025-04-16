@@ -1,6 +1,6 @@
 {
-    "name": "pak_tour_app",
-    "short_name": "pak_tour_app",
+    "name": "pak_tour_app_final",
+    "short_name": "pak_tour_app_final",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
