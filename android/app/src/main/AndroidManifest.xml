@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
-        android:label="pak_tour_app"
+        android:label="Pak Tour"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
