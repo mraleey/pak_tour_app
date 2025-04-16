@@ -1,4 +1,3 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
 import 'place_model.dart';
 
 class RouteStepModel {

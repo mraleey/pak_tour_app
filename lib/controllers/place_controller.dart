@@ -4,7 +4,6 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import '../models/place_model.dart';
 import '../models/route_plan_model.dart';
 import '../app_constants.dart';
-import '../models/wishlist_model.dart';
 import '../utils/ui_helpers.dart';
 import 'auth_controller.dart';
 

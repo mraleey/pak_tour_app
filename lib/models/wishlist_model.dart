@@ -1,4 +1,5 @@
-import 'package:pak_tour_app/models/place_model.dart';
+
+import 'package:pak_tour_app_final/models/place_model.dart';
 
 class WishlistModel {
   final String id;

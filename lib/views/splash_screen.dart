@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:pak_tour_app/views/auth/login_screen.dart';
-import 'package:pak_tour_app/views/home_screen.dart';
+import 'package:pak_tour_app_final/views/auth/login_screen.dart';
+import 'package:pak_tour_app_final/views/home_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'dart:async';
 

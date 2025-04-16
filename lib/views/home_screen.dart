@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:pak_tour_app/views/add_place.dart';
+import 'package:pak_tour_app_final/views/add_place.dart';
 
 import '../controllers/auth_controller.dart';
 import '../controllers/place_controller.dart';
